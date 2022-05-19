@@ -1,0 +1,19 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("paint.jpg");
+}
+
+#canvas{
+	width: 800px;
+	height: 800px;
+	border: 20px gray ridge;
+	color: aquamarine;
+	margin: 10px;
+	background-color: white;
+
+}
